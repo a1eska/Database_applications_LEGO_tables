@@ -1,5 +1,5 @@
 
--- Procedure which adds and inventory item
+-- Procedure which adds an inventory item
 CREATE PROCEDURE AddInventoryItem
     @set_id INTEGER,
     @elem_id INTEGER,
